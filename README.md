@@ -23,14 +23,14 @@ Yes... New Discord Visual Refresh UI Update really needs adjustments and fixes l
     left:80px !important;
     right:0px !important;
     width:auto !important;
-    margin-right:6px !important;
+    margin-right:7px !important;
 }
 .visual-refresh .guilds_c48ade{
     margin-bottom:106px !important;
     margin-top:48px !important;
 }
 
-div.itemsContainer_ef3116>div>.listItem__650eb:nth-child(5){
+div.itemsContainer_ef3116>div>.listItem__650eb:has(span){
     position:fixed !important;
     bottom:10px !important;
 }
@@ -42,6 +42,17 @@ div.itemsContainer_ef3116>div>.tutorialContainer__650eb{
     position:fixed !important;
     top:36px !important;
 }
+.form_f75fb0 {
+    margin-top: 4px !important;
+}
+/*
+.icon__6e9f8{
+    mask-image: url();
+}
+.wrapper__6e9f8{
+    background: oklab(0.278867 0.00249027 -0.00875303);
+}
+*/
 ```
 ![image](https://github.com/user-attachments/assets/68290607-993b-440f-851b-7611b566e330)
 
